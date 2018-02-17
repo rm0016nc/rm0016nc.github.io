@@ -11,8 +11,8 @@ body {
 
 h1 {
     font-family: "Arial Black", Gadget, sans-serif;
-    font-size: 50px;
-    color:#060542d0;    
+    font-size: 55px;
+    color:#060542a9;    
 }
 
 
@@ -22,9 +22,16 @@ span.last { color:rgba(8, 8, 8, 0.651);font-weight:bold;font-family:Tahoma;font-
 h2 , h3{
     font-family: Georgia, serif;
     position: relative;
-    text-align: right;
-    font-size: 20px;
-    color:#0c0c0cad;    
+    text-align: center;
+    font-size: 32px;
+    color:#021313bb;    
+}
+
+h4 {
+    font-style: italic;
+    text-align: center;
+    font-size: 15px;
+    color:#11033896; 
 }
 
 a:link{
@@ -59,8 +66,9 @@ a:link{
     color: white;
 }
 p {
+    font-size: 23px;
     font-weight:bold;
-    color:#141D1D; 
+    color:#050607a2; 
     font-style: italic;
 }
 nav ul {
@@ -151,7 +159,7 @@ img:hover {
     background: rgba(2, 2, 0, 0.555);
   }
 
-  p.detail { color:rgb(66, 121, 87);font-weight:bold;font-family:Tahoma;font-size:20 }
-  span.name { color:rgba(5, 5, 5, 0.651);font-weight:bold;font-family:Tahoma;font-size:20 }
-  p.detail1 { color:rgb(121, 68, 66);font-weight:bold;font-family:Tahoma;font-size:20 }
-  span.name1 { color:rgba(5, 5, 5, 0.651);font-weight:bold;font-family:Tahoma;font-size:20 }
+  p.detail { color:rgb(66, 121, 87);font-weight:bold;font-family:Tahoma;font-size:28 }
+  span.name { color:rgba(5, 5, 5, 0.651);font-weight:bold;font-family:Tahoma;font-size:28 }
+  p.detail1 { color:rgb(121, 68, 66);font-weight:bold;font-family:Tahoma;font-size:28 }
+  span.name1 { color:rgba(5, 5, 5, 0.651);font-weight:bold;font-family:Tahoma;font-size:28 }
