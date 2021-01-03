@@ -94,7 +94,8 @@ h4 {
 }
 
 .motto {
-  color: #CAC8C6;
+  color: #B1B393;
+;
 }
 
 p {
@@ -9877,8 +9878,8 @@ a.text-dark:hover, a.text-dark:focus {
 }
 
 .text-muted {
-  font-family: cursive;
-  color: #9EB5BC !important;
+  font-family: inherit;
+  color: #AEB0B0 !important;
 }
 
 .text-black-50 {
@@ -10032,7 +10033,7 @@ p {
 .page-section h3.section-subheading {
   font-size: 1rem;
   font-weight: 400;
-  font-family: cursive;
+  font-family: inherit;
   margin-bottom: 4rem;
 }
 
@@ -10162,14 +10163,14 @@ header.masthead {
 }
 header.masthead .masthead-subheading {
   font-size: 1.5rem;
-  font-family: cursive;
+  font-family: inherit;
   line-height: 1.5rem;
   margin-bottom: 25px;
 }
 
 header.masthead .masthead-subheading-small{
   font-size: 1.5rem;
-  font-family: cursive;
+  font-family: inherit;
   line-height: 1.5rem;
   margin-bottom: 25px;
 }
